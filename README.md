@@ -16,11 +16,11 @@ This is a simple interactive basic calculator implemented in Python. It performs
 
 ## How to Use
 
-1. Clone the repository or download the Python script (`calculator.py`).
+1. Clone the repository or download the Python script (`basicCalc.py`).
 2. Run the script in your preferred Python environment.
 
 ```bash
-python calculator.py
+python basicCalc.py
 ```
 
 3. Follow the on-screen instructions to input numbers and select an operator.
